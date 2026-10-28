@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">kris0516: small models, graphs, and hardware</title>
+  <desc id="desc">A dark blue banner with mint circuit lines connecting a small network, a matrix, and a chip.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#26344B" />
+    </pattern>
+    <linearGradient id="wash" x1="0" y1="0" x2="1280" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1829" />
+      <stop offset="1" stop-color="#14263B" />
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="280" rx="20" fill="url(#wash)" />
+  <rect x="736" y="1" width="543" height="278" rx="20" fill="url(#grid)" />
+  <rect x="0.5" y="0.5" width="1279" height="279" rx="19.5" stroke="#2E425C" />
+  <path d="M48 42H76" stroke="#79E3BE" stroke-width="3" stroke-linecap="round" />
+  <text x="90" y="48" fill="#AFC1D4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="2">KRIS0516 / PUBLIC PROJECTS</text>
+  <g fill="#F2F7FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="650" font-size="58" letter-spacing="-1.5">
+    <text x="46" y="126">Small models.</text>
+    <text x="46" y="193">Graphs &amp; hardware.</text>
+  </g>
+  <text x="49" y="240" fill="#AFC1D4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18">Experiments and notes, one project at a time.</text>
+  <g stroke="#506B89" stroke-width="2">
+    <path d="M811 88L873 61L912 122L840 161L811 88ZM873 61L840 161M811 88L912 122" />
+    <path d="M912 122H966V180H1028M873 61H1002V77H1078" />
+    <path d="M1092 204V236H1190V132H1160" />
+  </g>
+  <g fill="#162E42" stroke="#79E3BE" stroke-width="2.5">
+    <circle cx="811" cy="88" r="10" />
+    <circle cx="873" cy="61" r="10" />
+    <circle cx="912" cy="122" r="10" />
+    <circle cx="840" cy="161" r="10" />
+  </g>
+  <g stroke="#79E3BE" stroke-width="2" stroke-linecap="round">
+    <rect x="1028" y="104" width="132" height="100" rx="12" fill="#14263B" />
+    <rect x="1055" y="128" width="78" height="52" rx="5" fill="#213B4C" />
+    <path d="M1050 91V104M1078 77V104M1106 91V104M1134 91V104M1050 204V217M1078 204V217M1106 204V217M1134 204V217M1015 126H1028M1015 153H1028M1015 180H1028M1160 126H1173M1160 153H1173M1160 180H1173" />
+  </g>
+  <g fill="#A7EBD4">
+    <rect x="1070" y="139" width="10" height="10" rx="2" />
+    <rect x="1089" y="139" width="10" height="10" rx="2" />
+    <rect x="1108" y="139" width="10" height="10" rx="2" />
+    <rect x="1070" y="159" width="10" height="10" rx="2" />
+    <rect x="1089" y="159" width="10" height="10" rx="2" />
+    <rect x="1108" y="159" width="10" height="10" rx="2" />
+  </g>
+  <circle cx="1190" cy="236" r="4" fill="#79E3BE" />
+  <circle cx="966" cy="180" r="4" fill="#79E3BE" />
+</svg>
